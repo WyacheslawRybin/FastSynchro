@@ -8,4 +8,5 @@ This code implements fast synchronization example for Lorenz chaotic oscillators
 </p>
 
 When using this code in scientific purposes please refer to the original papaer:
-[paper in progress...]
+Butusov, D., Rybin, V., & Karimov, A. (2025). Fast time-reversible synchronization of chaotic systems. Physical Review E, 111(1), 014213.
+DOI: https://doi.org/10.1103/PhysRevE.111.014213
